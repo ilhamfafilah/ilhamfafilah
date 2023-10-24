@@ -1,0 +1,10 @@
+.pantai{
+        background-image: url(rimba.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.icon{
+    color: white;
+    font-size: x-large;
+}
